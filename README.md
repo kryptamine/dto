@@ -1,5 +1,5 @@
 # Laravel DTO
-
+[![Build Status](https://img.shields.io/travis/kryptamine/dto/master.svg?style=flat-square)](https://travis-ci.org/kryptamine/dto)
 [![Latest Stable Version](https://poser.pugx.org/kryptamine/dto/v/stable)](https://packagist.org/packages/kryptamine/dto)
 [![Total Downloads](https://poser.pugx.org/kryptamine/dto/downloads)](https://packagist.org/packages/kryptamine/dto)
 [![License](https://poser.pugx.org/kryptamine/dto/license)](https://packagist.org/packages/kryptamine/dto)
