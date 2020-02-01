@@ -1,0 +1,19 @@
+language: php
+
+cache:
+  directories:
+    - $HOME/.composer/cache
+
+matrix:
+  fast_finish: true
+  include:
+    - php: 7.2
+
+install:
+  - COMPOSER_MEMORY_LIMIT=-1 travis_retry composer update --no-interaction --no-plugins --no-suggest --prefer-source ${COMPOSER_FLAGS}
+
+script:
+  - vendor/bin/phpunit
+
+notifications:
+  email: false
