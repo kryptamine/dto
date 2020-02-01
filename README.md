@@ -1,8 +1,8 @@
 # Laravel DTO
 
-[![Latest Stable Version](https://poser.pugx.org/kryptamine/dto/v/stable)](https://packagist.org/packages/imTigger/laravel-job-status)
-[![Total Downloads](https://poser.pugx.org/kryptamine/dto/downloads)](https://packagist.org/packages/imTigger/laravel-job-status)
-[![License](https://poser.pugx.org/kryptamine/dto/license)](https://packagist.org/packages/imTigger/laravel-job-status)
+[![Latest Stable Version](https://poser.pugx.org/kryptamine/dto/v/stable)](https://packagist.org/packages/kryptamine/dto)
+[![Total Downloads](https://poser.pugx.org/kryptamine/dto/downloads)](https://packagist.org/packages/kryptamine/dto)
+[![License](https://poser.pugx.org/kryptamine/dto/license)](https://packagist.org/packages/kryptamine/dto)
 ## Installation
 
 You can install the package via composer:
